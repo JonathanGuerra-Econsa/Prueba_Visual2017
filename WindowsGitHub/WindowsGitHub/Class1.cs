@@ -8,6 +8,6 @@ namespace WindowsGitHub
 {
     public class Class1
     {
-        string a = "¡Oh, oh!";
+        string a = "321";
     }
 }

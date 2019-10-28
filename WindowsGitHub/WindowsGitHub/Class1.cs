@@ -9,5 +9,11 @@ namespace WindowsGitHub
     public class Class1
     {
         string a = "456";
+        int b = 1;
+        int c = 2;
+        public void suma()
+        {
+            int d = (b + c);
+        }
     }
 }

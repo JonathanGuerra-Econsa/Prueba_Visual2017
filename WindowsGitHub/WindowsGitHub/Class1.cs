@@ -11,9 +11,9 @@ namespace WindowsGitHub
         string a = "123";
         int b = 4;
         int c = 5;
-        public void resta()
+        public void suma()
         {
-            int d = (b - c);
+            int d = (b + c);
         }
     }
 }

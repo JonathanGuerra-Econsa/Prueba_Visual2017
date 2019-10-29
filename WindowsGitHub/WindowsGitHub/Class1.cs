@@ -8,12 +8,12 @@ namespace WindowsGitHub
 {
     public class Class1
     {
-        string a = "456";
-        int b = 2;
-        int c = 2;
-        public void suma()
+        string a = "123";
+        int b = 4;
+        int c = 5;
+        public void resta()
         {
-            int d = (b + c);
+            int d = (b - c);
         }
     }
 }
